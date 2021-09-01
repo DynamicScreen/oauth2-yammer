@@ -1,5 +1,5 @@
 {
-    "name": "upro/oauth2-yammer",
+    "name": "dynamicscreen/oauth2-yammer",
     "description": "Yammer OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "league/oauth2-client": "~1.4"
+        "league/oauth2-client": "~2.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
